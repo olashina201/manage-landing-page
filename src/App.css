@@ -222,7 +222,7 @@ header .header-container .nav-container .desktop-nav {
 
 .hero .hero-container__content::before {
   content: '';
-  background: url(/assets/images/bg-tablet-pattern.svg) no-repeat;
+  background: url(../src/images/bg-tablet-pattern.svg) no-repeat;
   position: absolute;
   top: 36rem;
   right: 0;
@@ -239,7 +239,7 @@ header .header-container .nav-container .desktop-nav {
 
 .hero .hero-container__illustration::before {
   content: '';
-  background: url(/assets/images/bg-tablet-pattern.svg) no-repeat;
+  background: url(../src/images/bg-tablet-pattern.svg) no-repeat;
   position: absolute;
   top: -8rem;
   right: 0;
@@ -324,7 +324,7 @@ header .header-container .nav-container .desktop-nav {
 @media screen and (min-width: 53.125em) {
   .different::before {
     content: '';
-    background: url(/assets/images/bg-tablet-pattern.svg) no-repeat;
+    background: url(../src/images/bg-tablet-pattern.svg) no-repeat;
     position: absolute;
     top: 18rem;
     left: -30rem;
@@ -388,7 +388,7 @@ header .header-container .nav-container .desktop-nav {
 }
 
 .cta::before {
-  content: url(/assets/images/bg-simplify-section-mobile.svg);
+  content: url(../src/images/bg-simplify-section-mobile.svg);
   position: absolute;
   top: 50%;
   -webkit-transform: translateY(-50%);
@@ -416,7 +416,7 @@ header .header-container .nav-container .desktop-nav {
     width: 50%;
   }
   .cta::before {
-    content: url(/assets/images/bg-simplify-section-desktop.svg);
+    content: url(../src/images/bg-simplify-section-desktop.svg);
     position: absolute;
     top: -7rem;
     right: -16rem;
@@ -587,7 +587,7 @@ footer .footer-container__input .copyright {
 }
 
 .hamburger {
-  background: url(/assets/images/icon-hamburger.svg) no-repeat center;
+  background: url(../src/images/icon-hamburger.svg) no-repeat center;
   height: 2rem;
   width: 2rem;
   border: none;
