@@ -610,14 +610,17 @@ footer .footer-container__input .copyright {
   transition: opacity .2s;
 }
 
-.mobile-nav-bg .mobile-nav-links {
-  width: 88%;
+.mobile-nav-links {
   margin: 0 auto;
-  max-width: 69rem;
-  background: white;
+  height: 30vh;
+  position: absolute;
+  top: 0;
+  left: 30%;
+  width: 50%;
+  background: #fff;
   padding: 2rem 0;
   text-align: center;
-  position: relative;
+  line-height: 30px;
   top: 7rem;
   border-radius: .4rem;
 }

@@ -1,15 +1,17 @@
-import React from 'react'
+import React, { useState } from 'react'
 import logo from '../images/logo.svg'
 import '../App.css'
 
 function Header() {
+    const [nav, setNav] = useState(false)
+    const toggle = () => setNav(!nav)
     return (
         <header>
             <div className="header-container">
                 <a href="#"><img src={logo} alt="manage" /></a>
                 <nav className="nav-container">
-                    <button className="hamburger"></button>
-                    <ul className="desktop-nav">
+                    <button className="hamburger" onClick={toggle}></button>
+                    <ul className={ nav ? "mobile-nav-links" : "desktop-nav"}>
                         <li><a href="#">Pricing</a></li>
                         <li><a href="#">Product</a></li>
                         <li><a href="#">About Us</a></li>
