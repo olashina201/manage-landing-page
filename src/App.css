@@ -631,7 +631,7 @@ footer .footer-container__input .copyright {
 }
 
 .open .hamburger {
-  background: url(/assets/images/icon-close.svg) no-repeat center;
+  background: url(../src/images/icon-close.svg) no-repeat center;
 }
 
 .open .mobile-nav-bg {
