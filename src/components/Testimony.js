@@ -3,6 +3,7 @@ import anisha from '../images/avatar-anisha.png'
 import ali from '../images/avatar-ali.png'
 import richard from '../images/avatar-richard.png'
 import shanai from '../images/avatar-shanai.png'
+import '../App.css'
 
 function Testimony() {
     return (

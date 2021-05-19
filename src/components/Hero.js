@@ -1,5 +1,6 @@
 import React from 'react'
 import illustration from '../images/illustration-intro.svg'
+import '../App.css'
 
 function Hero() {
     return (
