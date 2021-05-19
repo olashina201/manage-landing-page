@@ -25,6 +25,7 @@ function Header() {
                             <li><a href="#">About Us</a></li>
                             <li><a href="#">Careers</a></li>
                             <li><a href="#">Community</a></li>
+                            <li><a href="#" className="cta-button">Get Started</a></li>
                         </ul>
                     </div>
                 </nav>
