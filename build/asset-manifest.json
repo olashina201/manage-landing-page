@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.387739d9.chunk.css",
+    "main.js": "/static/js/main.cc03b382.chunk.js",
+    "main.js.map": "/static/js/main.cc03b382.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.47c8ccfb.js",
+    "runtime-main.js.map": "/static/js/runtime-main.47c8ccfb.js.map",
+    "static/js/2.c40740d8.chunk.js": "/static/js/2.c40740d8.chunk.js",
+    "static/js/2.c40740d8.chunk.js.map": "/static/js/2.c40740d8.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.387739d9.chunk.css.map": "/static/css/main.387739d9.chunk.css.map",
+    "static/js/2.c40740d8.chunk.js.LICENSE.txt": "/static/js/2.c40740d8.chunk.js.LICENSE.txt",
+    "static/media/avatar-ali.88f9155c.png": "/static/media/avatar-ali.88f9155c.png",
+    "static/media/avatar-anisha.484e15bc.png": "/static/media/avatar-anisha.484e15bc.png",
+    "static/media/avatar-richard.ace8e089.png": "/static/media/avatar-richard.ace8e089.png",
+    "static/media/avatar-shanai.4bbe2f95.png": "/static/media/avatar-shanai.4bbe2f95.png",
+    "static/media/App.css": "/static/media/icon-hamburger.8dcf47cc.svg",
+    "static/media/illustration-intro.cb9a8a95.svg": "/static/media/illustration-intro.cb9a8a95.svg",
+    "static/media/logo.66a57610.svg": "/static/media/logo.66a57610.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47c8ccfb.js",
+    "static/js/2.c40740d8.chunk.js",
+    "static/css/main.387739d9.chunk.css",
+    "static/js/main.cc03b382.chunk.js"
+  ]
+}
